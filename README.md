@@ -1,4 +1,11 @@
-# SB SCMT Lib v1
-Library for integration with SCM API (SimBASE system).
+# BPMSYS XML API Lib v1
 
-Example in index.php
+## Project
+I have worked on project for BPM/ERP system. This system have API.
+This application integrates with that system using API to show information.
+
+## Library
+PHP lib to forming SCM API request into system.
+
+## How to
+Examples in index.php
